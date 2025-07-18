@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FormualrioSpinnerApp</string>
+    <string-array name="opciones_array">
+        <item>Opcion1 </item>
+        <item>Opcion 2</item>
+        <item> Opcion3 </item>
+        <item> Opcion 4</item>
+    </string-array>
+</resources>
